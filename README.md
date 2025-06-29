@@ -12,7 +12,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 - Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
 - Scope Definition: Clearly defines the scope of the project, which helps in preventing scope creep.
 
-## Key Acitivites in Requirement Analysis
+## Key Activites in Requirement Analysis
 * Requirement Gathering. This involves collecting information needed for the development of the system.
   + Interviews: Conducting interviews with stakeholders to gather detailed information about their needs and expectations.
   + Observation: Observing end-users in their working environment to understand their needs.
