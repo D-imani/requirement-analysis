@@ -61,3 +61,17 @@ The examples of non-functional requirements for the booking management project :
 - Provide a clear visual representation of system functionalities.
 - Facilitate communication among stakeholders and development team.
   ![Use Case Diagram](./alx-booking-uc.png)
+
+## Acceptance Criteria
+**Definition** Acceptance criteria are conditions that a feature must meet to be accepted by the stakeholders.
+### Importance of Acceptance Criteria
+- Help in maintaining quality and meeting user expectations.
+- Provide a basis for testing and validation.
+- Ensure all parties have a clear understanding of feature requirements.
+### Example
+1. Access to Checkout Page. Given the user has selected a property and specified check-in/check-out date. When the user clicks “Reserve” or “Book Now” Then they should be redirected to the checkout page
+2. Display of Booking Details. Given the user is on the checkout page
+Then they should see: Property name and thumbnail, Check-in and check-out dates, Number of guests. Nightly rate, cleaning fee, service fee, and total costCancellation policy summa
+3. Guest Information. Given the user has not filled in required guest information Then the form should prompt for full name, contact number, and any required ID verification (if applicable)
+4. Payment Options. Given the user is on the checkout page. Then they should be able to choose a payment method (e.g., credit card, PayPal, mobile money if localized)And input fields should validate card number, expiration date, and CVV
+5. Successful Payment and Booking Confirmation. Given the user enters valid payment information. When the user clicks “Confirm and Pay” Then: The payment should be processed securely. A success message and booking confirmation number should be shown
