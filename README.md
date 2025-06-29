@@ -60,4 +60,4 @@ The examples of non-functional requirements for the booking management project :
 - Help in identifying and organizing system requirements.
 - Provide a clear visual representation of system functionalities.
 - Facilitate communication among stakeholders and development team.
-  ![alx-booking-uc](https://github.com/user-attachments/assets/d8dc47b9-af4b-4a33-b1b6-05324dfd7b8c)
+  ![Use Case Diagram](./alx-booking-uc.png)
