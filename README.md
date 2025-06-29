@@ -53,3 +53,11 @@ The examples of non-functional requirements for the booking management project :
 + Performance: The system should load pages within 2 seconds and handle up to 1000 concurrent users.
 + Security: Ensure data encryption, secure login, and protect against common vulnerabilities.
 + Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
+
+## Use Case Diagrams.
+**Definition** They show how different users (actors) interact with the system to achieve specific goals (use cases).
+**Benefits**
+- Help in identifying and organizing system requirements.
+- Provide a clear visual representation of system functionalities.
+- Facilitate communication among stakeholders and development team.
+  ![alx-booking-uc](https://github.com/user-attachments/assets/d8dc47b9-af4b-4a33-b1b6-05324dfd7b8c)
